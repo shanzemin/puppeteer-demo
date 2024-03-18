@@ -4,4 +4,6 @@
 
 ## twitter
 
-- `like.js`：自动点赞
+- [√] `like.js`：自动点赞
+- [√] `comment.js`: 自动评论
+- [ ] `retweet.js`: 引用帖子并评价
